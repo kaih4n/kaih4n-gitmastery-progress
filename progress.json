@@ -149,5 +149,14 @@
       "The 'april-update' tag is pointing to the wrong commit. It should point to the April commit."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1787726971.908977,
+    "completed_at": 1787726973.356807,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
   }
 ]
