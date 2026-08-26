@@ -131,5 +131,14 @@
       "Missing lightweight tag \"first-pilot\"."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787726299.760236,
+    "completed_at": 1787726301.300644,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
